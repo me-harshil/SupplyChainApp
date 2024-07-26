@@ -1,0 +1,51 @@
+Product ID,Product Name,Price,Quantity
+P001,Smartphone,15000.0,10
+P002,Television,25000.0,8
+P003,Refrigerator,20000.0,15
+P004,Washing Machine,18000.0,12
+P005,Air Conditioner,30000.0,2
+P006,Microwave Oven,8000.0,20
+P007,Induction Cooktop,3000.0,25
+P008,Mixer Grinder,4000.0,30
+P009,Juicer,5000.0,28
+P010,Water Purifier,10000.0,15
+P011,Vacuum Cleaner,6000.0,22
+P012,Electric Kettle,1500.0,40
+P013,Toaster,2000.0,35
+P014,Blender,2500.0,32
+P015,Rice Cooker,3500.0,18
+P016,Food Processor,7000.0,25
+P017,Electric Iron,1000.0,50
+P018,Hair Dryer,1500.0,45
+P019,Room Heater,4000.0,20
+P020,Water Heater,8000.0,10
+P021,Electric Fan,2000.0,30
+P022,LED Bulb,150.0,100
+P023,Power Bank,1000.0,60
+P024,Bluetooth Speaker,2500.0,40
+P025,Headphones,2000.0,45
+P026,Wireless Earbuds,3000.0,35
+P027,Laptop Bag,1000.0,55
+P028,Backpack,1500.0,50
+P029,Trolley Bag,3000.0,45
+P030,Suitcase,4000.0,40
+P031,Travel Pillow,500.0,70
+P032,Neck Pillow,300.0,80
+P033,Travel Adapter,800.0,65
+P034,USB Cable,200.0,90
+P035,HDMI Cable,300.0,85
+P036,Extension Cord,400.0,80
+P037,Power Strip,500.0,75
+P038,LAN Cable,250.0,100
+P039,Router,2000.0,30
+P040,Modem,2500.0,25
+P041,Wireless Mouse,800.0,50
+P042,Wireless Keyboard,1000.0,45
+P043,External Hard Drive,5000.0,20
+P044,USB Flash Drive,1000.0,60
+P045,SD Card,800.0,65
+P046,Webcam,1500.0,40
+P047,Printer Paper,300.0,150
+P048,Ink Cartridge,500.0,80
+P049,Stapler,100.0,200
+P050,Binder Clips,50.0,250
